@@ -3,8 +3,6 @@ name: Deploy Hugo Site to GitHub Pages
 on:
   push:
     branches: [main]
-  pull_request:
-    branches: [main]
   workflow_dispatch:
 
 jobs:
@@ -34,7 +32,7 @@ jobs:
         run: hugo --minify
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3  # ✅ Latest version
+        uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
@@ -51,4 +49,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4  # ✅ Latest version
+        uses: actions/deploy-pages@v4
