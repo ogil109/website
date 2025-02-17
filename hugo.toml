@@ -1,4 +1,4 @@
-baseURL = 'https://oscargilbalaguer.com/'
+baseURL = 'https://ogil109.github.io/website/'
 languageCode = 'en-us'
 title = "Oscar's Log"
 theme = "hugo-bearcub"
