@@ -1,4 +1,4 @@
-name: Preview Hugo Site for PRs
+name: Preview for PR
 
 on:
   pull_request:
