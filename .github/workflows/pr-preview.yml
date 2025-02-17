@@ -1,0 +1,56 @@
+name: Preview Hugo Site for PRs
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    concurrency:
+      group: "pages-preview"
+      cancel-in-progress: true
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # Fetch theme submodules if needed
+          fetch-depth: 0
+
+      - name: Install Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+
+      - name: Build site
+        run: hugo --baseURL "https://ogil109.github.io/website-pr-${{ github.event.pull_request.number }}/" --minify
+
+      - name: Upload preview artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public
+
+  deploy-preview:
+    runs-on: ubuntu-latest
+    needs: preview
+    environment:
+      name: preview
+    permissions:
+      id-token: write
+      pages: write
+      pull-requests: write
+    steps:
+      - name: Deploy to GitHub Pages (Preview)
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Comment on PR with Preview URL
+        uses: mshick/add-pr-comment@v2
+        with:
+          message: "🚀 PR preview ready: [Preview Site](https://ogil109.github.io/website-pr-${{ github.event.pull_request.number }}/)**"
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
