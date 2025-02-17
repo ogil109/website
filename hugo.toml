@@ -1,0 +1,4 @@
+baseURL = 'https://oscargilbalaguer.com/'
+languageCode = 'en-us'
+title = 'Oscar's Log'
+theme = "hugo-bearcub"
