@@ -1,0 +1,14 @@
+{
+    "description": "Engineering for tomorrow",
+    "subtitle": "Engineering for tomorrow",
+    "favicon": "images/favicon.png",
+    "images": ["images/share.webp"],
+    "title": "Oscar's Log",
+    "dateFormat": "2006-01-02",
+    "themeStyle": "original",
+    "generateSocialCard": false,
+    "author": {
+      "name": "Oscar Gil",
+      "email": "hello@oscargilbalaguer.com"
+    }
+  }  
