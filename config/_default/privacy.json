@@ -1,0 +1,15 @@
+{
+    "privacy": {
+      "googleAnalytics": {
+        "respectDoNotTrack": true,
+        "anonymizeIP": true
+      },
+      "twitter": {
+        "disable": true
+      },
+      "youtube": {
+        "privacyEnhanced": true
+      }
+    }
+  }
+  

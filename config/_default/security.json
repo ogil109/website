@@ -1,0 +1,14 @@
+{
+    "security": {
+      "enableInlineShortcodes": false,
+      "exec": {
+        "allow": [],
+        "osEnv": []
+      },
+      "http": {
+        "methods": ["GET", "POST"],
+        "urls": ["^https://"]
+      }
+    }
+  }
+  
