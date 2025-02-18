@@ -1,9 +1,10 @@
 {
+    "title": "Oscar's Log",
     "description": "Engineering for tomorrow",
     "subtitle": "Engineering for tomorrow",
+    "madeWith": "Powered by [Hugo](https://gohugo.io/) & [Bear Cub](https://github.com/clente/hugo-bearcub/tree/main)",
     "favicon": "images/favicon.png",
     "images": ["images/share.webp"],
-    "title": "Oscar's Log",
     "dateFormat": "2006-01-02",
     "themeStyle": "original",
     "generateSocialCard": false,
