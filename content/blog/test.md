@@ -11,8 +11,11 @@ categories = ["test"]
 tags = ["test"]
 +++
 # Bear Cub testing
+
 This is the first front matter test after the introduction of newer Bear Cub options.
+
 ## Is it working
+
 Well, does this have a TOC?
 Does this have a reading time?
 Does this have the "test" category and "test" tag?
