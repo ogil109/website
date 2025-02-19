@@ -10,11 +10,11 @@ readingTime = true
 categories = ["test"]
 tags = ["test"]
 +++
-# Bear Cub testing
+## Bear Cub testing
 
 This is the first front matter test after the introduction of newer Bear Cub options.
 
-## Is it working
+### Is it working?
 
 Well, does this have a TOC?
 Does this have a reading time?
