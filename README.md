@@ -1,1 +1,1 @@
-Oscar's personal website. Accessible at oscargilbalaguer.com.
+Oscar's personal website. Accessible at [oscargilbalaguer.com](https://oscargilbalaguer.com).
