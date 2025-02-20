@@ -2,7 +2,7 @@ A collection of some of my curated notes on a range of topics related to being a
 
 ## On the job
 
-I seek to empower the next generation of value-drive, disruptive companies by providing strategic, robust solutions that help them scale and make an impact in the world to ensure a better tomorrow for all of us.
+I seek to empower the next generation of value-driven, disruptive companies by providing strategic, robust solutions that help them scale and make an impact in the world to ensure a better tomorrow for all of us.
 
 ## On life
 
