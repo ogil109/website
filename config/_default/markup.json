@@ -3,5 +3,10 @@
       "lineNos": true,
       "lineNumbersInTable": false,
       "noClasses": false
+    },
+    "tableOfContents": {
+      "startLevel": 2,
+      "endLevel": 3,
+      "ordered": false
     }
   }  
