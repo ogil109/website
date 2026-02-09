@@ -8,4 +8,4 @@ I am both questioning and optimistic: the former drives me to explore the world 
 
 ## What I like?
 
-I love building for the people and for what lies ahead, so you'll usually find me cranking my head to implement robust solutions that have a real, long-lasting impact on disruptive, value-driven companies.
+I love building for the people and for what lies ahead, so you'll usually find me cranking my head to implement robust solutions that have a real, long-lasting impact as part of disruptive, value-driven teams.
