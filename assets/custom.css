@@ -1,0 +1,12 @@
+/* Custom styles for post listings */
+article .post-title {
+  margin-bottom: 0.1rem;
+}
+
+article .post-meta {
+  margin-top: 0;
+}
+
+.post-continue {
+  text-align: right;
+}

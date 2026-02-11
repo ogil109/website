@@ -4,8 +4,8 @@
 <h2>Latest thoughts</h2>
 {{ range first 3 (where .Site.RegularPages "Section" "blog").ByDate.Reverse }}
 <article>
-  <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-  <p class="meta">
+  <h3 class="post-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+  <p class="post-meta">
     <small>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
       {{ if .Params.readingTime }}
@@ -15,7 +15,7 @@
   </p>
   {{ if .Params.excerpt }}
   <p>{{ .Params.excerpt }}</p>
-  <p><a href="{{ .Permalink }}">Continue reading →</a></p>
+  <p class="post-continue"><a href="{{ .Permalink }}">Continue reading →</a></p>
   {{ end }}
 </article>
 {{ end }}
