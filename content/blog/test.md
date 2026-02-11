@@ -1,6 +1,6 @@
 +++
 title = 'Post Test'
-draft = true
+draft = false
 date = '2025-02-19T18:37:38+01:00'
 publishDate = "2025-02-19T18:37:38+01:00"
 lastmod = "2025-02-19T19:37:38+01:00"
@@ -21,3 +21,7 @@ Does this have a reading time?
 Does this have the "test" category and "test" tag?
 
 If answer is yes to all of those, **it's working**!
+
+### Let's go!
+
+(I guess).
