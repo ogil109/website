@@ -4,9 +4,8 @@
 <p class="byline">
     Published: <time datetime="{{ .Date.Format `2006-01-02` }}">{{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}</time>  
     {{ if .Lastmod.After .Date }}
-      | Updated: <time datetime="{{ .Lastmod.Format `2006-01-02` }}">{{ .Lastmod.Format (default "2006-01-02" .Site.Params.dateFormat) }}</time>
+      | Last updated: <time datetime="{{ .Lastmod.Format `2006-01-02` }}">{{ .Lastmod.Format (default "2006-01-02" .Site.Params.dateFormat) }}</time>
     {{ end }}
-    {{ if .Params.readingTime }} | ⏳ {{ .ReadingTime }} min read{{ end }}
 </p>
 {{ end }}
 {{ if .Params.showToc }}

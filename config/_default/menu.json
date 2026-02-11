@@ -1,14 +1,19 @@
 {
     "main": [
       {
-        "name": "About me",
+        "name": "Home",
         "url": "/",
         "weight": 1
       },
       {
-        "name": "Blog",
-        "url": "/blog/",
+        "name": "About",
+        "url": "/about",
         "weight": 2
+      },
+      {
+        "name": "Blog",
+        "url": "/blog",
+        "weight": 3
       }
     ]
   }

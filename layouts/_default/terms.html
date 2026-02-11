@@ -1,0 +1,16 @@
+{{ define "main" }}
+<content>
+  <h3>{{ .Title }}</h3>
+  <ul class="blog-posts">
+    {{ range .Pages }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;<span>({{ len .Pages }} {{ if eq (len .Pages) 1 }}post{{ else }}posts{{ end }})</span>
+    </li>
+    {{ else }}
+    <li>
+      {{ i18n "no-posts" }}
+    </li>
+    {{ end }}
+  </ul>
+</content>
+{{ end }}

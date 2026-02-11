@@ -5,7 +5,14 @@
 {{ range first 3 (where .Site.RegularPages "Section" "blog").ByDate.Reverse }}
 <article>
   <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-  <p><small><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time></small></p>
+  <p class="meta">
+    <small>
+      <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+      {{ if .Params.readingTime }}
+        | {{ .ReadingTime }} min read
+      {{ end }}
+    </small>
+  </p>
   {{ if .Params.excerpt }}
   <p>{{ .Params.excerpt }}</p>
   <p><a href="{{ .Permalink }}">Continue reading →</a></p>
