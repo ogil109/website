@@ -1,12 +1,33 @@
-/* Custom styles for post listings */
-article .post-title {
-  margin-bottom: 0.1rem;
-}
+/* ========================================
+   Shared/Reusable Components
+   ======================================== */
 
-article .post-meta {
+/* Generic metadata style - dates, reading time, etc. */
+.post-meta {
   margin-top: 0;
 }
 
-.post-continue {
+
+/* ========================================
+   Homepage/Listing Styles
+   ======================================== */
+
+/* Post titles in listings (h3) */
+.listing-title {
+  margin-bottom: 0.1rem;
+}
+
+/* Continue reading link */
+.listing-continue {
   text-align: right;
+}
+
+
+/* ========================================
+   Single Post Page Styles
+   ======================================== */
+
+/* Post title (h1) */
+.post-title {
+  margin-bottom: 0.1rem;
 }

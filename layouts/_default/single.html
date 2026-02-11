@@ -1,11 +1,13 @@
 {{ define "main" }}
 {{ if not .Params.menu }}
-<h1>{{ .Title }}</h1>
-<p class="byline">
+<h1 class="post-title">{{ .Title }}</h1>
+<p class="post-meta">
+    <small>
     Published: <time datetime="{{ .Date.Format `2006-01-02` }}">{{ .Date.Format (default "2006-01-02" .Site.Params.dateFormat) }}</time>  
     {{ if .Lastmod.After .Date }}
       | Last updated: <time datetime="{{ .Lastmod.Format `2006-01-02` }}">{{ .Lastmod.Format (default "2006-01-02" .Site.Params.dateFormat) }}</time>
     {{ end }}
+    </small>
 </p>
 {{ end }}
 {{ if .Params.showToc }}
