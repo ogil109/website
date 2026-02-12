@@ -4,7 +4,12 @@
   <ul class="blog-posts">
     {{ range .Pages }}
     <li>
-      <a href="{{ .RelPermalink }}">{{ .Title }}</a>&nbsp;<span>({{ len .Pages }} {{ if eq (len .Pages) 1 }}post{{ else }}posts{{ end }})</span>
+      <span>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </span>
+      <p class="post-meta">
+        <small>({{ len .Pages }} {{ if eq (len .Pages) 1 }}post{{ else }}posts{{ end }})</small>
+      </p>
     </li>
     {{ else }}
     <li>
