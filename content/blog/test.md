@@ -7,7 +7,7 @@ lastmod = "2025-02-19T19:37:38+01:00"
 showToc = true
 readingTime = true
 categories = ["test"]
-tags = ["test"]
+tags = ["test", "test2"]
 excerpt = "Testing the new Bear Cub theme options including TOC, reading time, categories, and tags."
 +++
 ## Bear Cub testing
