@@ -9,23 +9,23 @@ hideReply = true
 
 I started this blog to have a drive to share some of the things I learn and I feel are worth sharing. This is not by any means a place intended to educate people on best practices or how to do things.
 
-I follow [Zettlekasten](https://en.wikipedia.org/wiki/Zettelkasten) for note-taking, specifically using [Sohnke Ahren's approach](https://www.soenkeahrens.de/en/takesmartnotes) with [Logseq](https://logseq.com/).
+I follow [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) for note-taking, specifically using [Sönke Ahrens's approach](https://www.soenkeahrens.de/en/takesmartnotes) with [Logseq](https://logseq.com/).
 
 Sometimes (just once in a while), this method produces some original thoughts that are not already covered by anyone (that I know of, obviously) on the internet. Whenever I stumble upon any of those thoughts, I try to structure them and showcase them, just in case a tiny drop of new content in a sea of gen AI content can make any difference to anyone, anytime.
 
 ### How often do I post
 
-As of 2026, I'm full-time employed, studying [Rust](https://rust-book.cs.brown.edu/), trying to remain fit and being a parent to a 1-year old. So, if you are really that interested in the content, first, thank you, and second and foremost, you can subscribe to the [RSS feed](https://oscargilbalaguer.com/blog/index.xml).
+As of 2026, I'm full-time employed, studying [Rust](https://rust-book.cs.brown.edu/), trying to remain fit and being a parent to a 1-year-old. So, if you are really that interested in the content, first, thank you, and second and foremost, you can subscribe to the [RSS feed](https://oscargilbalaguer.com/blog/index.xml).
 
 ### What do I post about
 
-As I said, can be anything that I feel worth sharing, I write here not as a professional but as a human being, so take into account the source of what I share is my own living experience (both at work and outside of it).
+As I said, can be anything that I feel is worth sharing, I write here not as a professional but as a human being, so take into account the source of what I share is my own living experience (both at work and outside of it).
 
-I created [tags](/tags) to make it easier in case you want to find info on particular topics, and you'll find them by the bottom of every post, in case you want to keep reading about the same topic/s.
+I created [tags](/tags) to make it easier in case you want to find info on particular topics, and you'll find them at the bottom of every post, in case you want to keep reading about the same topic/s.
 
 ## About me
 
-I'm Oscar, nice to (sort of) meet you. If you're reading this, chances are high that you came here looking for [my resume](https://docs.google.com/document/d/e/2PACX-1vT4UVc1-8N7AL19uJaCgm6eM3gHZsJQa_WmI7zkZvrW7mcG7LF3SilDH2qUi1TnVdk_eM4JvaCVCuPj/pub).
+I'm Oscar, nice to (sort of) meet you. If you're reading this, chances are that you came here looking for [my resume](https://docs.google.com/document/d/e/2PACX-1vT4UVc1-8N7AL19uJaCgm6eM3gHZsJQa_WmI7zkZvrW7mcG7LF3SilDH2qUi1TnVdk_eM4JvaCVCuPj/pub).
 
 Ok, recruiters happy. Let me introduce myself:
 
@@ -41,9 +41,9 @@ No programming at 8, no robotics... nothing out of the ordinary (I'd say).
 
 As a teenager I leaned into sports, reading, and entrepreneurship. I've always loved medical science, so not knowing where to head my life, I decided to study human nutrition and dietetics (formally) and sports science (on my own). I did enjoy pure sciences (formal, physical and life sciences), and I learned quite a lot about the human body up to 2nd college year. From there, things started to go south, all subjects were applied sciences, and conflict of interests and lack of evidence were all over the place.
 
-About that time, I was chosen as Head of the Scientific Commitee for Spain's college network. As I got really used to reading scientific papers, and I had developed quite a reputation for being ruthless with any professor who wasn't providing up-to-date, evidence-based information (I was and I am a supporter of [EBM](https://en.wikipedia.org/wiki/Evidence-based_medicine)).
+About that time, I was chosen as Head of the Scientific Commitee for Spain's college network. As I became really used to reading scientific papers, and I had developed quite a reputation for being ruthless with any professor who wasn't providing up-to-date, evidence-based information (I was and I am a supporter of [EBM](https://en.wikipedia.org/wiki/Evidence-based_medicine)).
 
-My purpose was to ensure the accuracy of what was being taught all over the country. And I did so, for a while. It was fun, we got to challenge falsy claims and poor educational materials. That lasted about half a year, then I realized I wouldn't be able to really change how things worked (fyi, Spain health organism establishing nutritional guidelines and academic curriculum is [sponsored by big corporations](https://www.nutricioncomunitaria.org/es/colaborador/empresas) whose purpose is not to provide a better education for future health professionals, but rather have partners in crime).
+My purpose was to ensure the accuracy of what was being taught all over the country. And I did so, for a while. It was fun, we got to challenge false claims and poor educational materials. That lasted about half a year, then I realized I wouldn't be able to really change how things worked (fyi, Spain health organism establishing nutritional guidelines and academic curriculum is [sponsored by big corporations](https://www.nutricioncomunitaria.org/es/colaborador/empresas) whose purpose is not to provide a better education for future health professionals, but rather have partners in crime).
 
 ### Dropping out
 
@@ -51,9 +51,9 @@ This was the last nail in the coffin. I totally disengaged from college and quit
 
 During the time, though, I had started to coach people I met traveling as part of my role. I associated with a pharmacist, a certified trainer (which I wasn't), a psychologist and an aspiring architect with nice graphical design skills (which happened to be my gf back then).
 
-I also started writing scientifical dissemination work for Spain's biggest health blog at the moment.
+I also started writing scientific dissemination work for Spain's biggest health blog at the moment.
 
-So in order to grow our online business, I figured out the best way forwward was to have a strong online presence, so I took on the website SEO and did what I was already doing as an external collaborator for the blog, write scientifical dissemination, but keeping an eye on inbound marketing strategies, lead generation, RevOps and SEO specifically.
+So in order to grow our online business, I figured out the best way forward was to have a strong online presence, so I took on the website SEO and did what I was already doing as an external collaborator for the blog, write scientific dissemination, but keeping an eye on inbound marketing strategies, lead generation, RevOps and SEO specifically.
 
 Again, didn't work out.
 
