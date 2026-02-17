@@ -11,7 +11,7 @@ I started this blog to have a drive to share some of the things I learn and I fe
 
 I follow [Zettelkasten](https://en.wikipedia.org/wiki/Zettelkasten) for note-taking, specifically using [Sönke Ahrens's approach](https://www.soenkeahrens.de/en/takesmartnotes) with [Logseq](https://logseq.com/).
 
-Sometimes (just once in a while), this method produces some original thoughts that are not already covered by anyone (that I know of, obviously) on the internet. Whenever I stumble upon any of those thoughts, I try to structure them and showcase them, just in case a tiny drop of new content in a sea of gen AI content can make any difference to anyone, anytime.
+Sometimes (just sometimes), this method produces some original thoughts that are not already covered by anyone (that I know of, obviously) on the internet. Whenever I stumble upon any of those thoughts, I try to structure them and showcase them, just in case a tiny drop of new content in a sea of gen AI content can make any difference to anyone, anytime.
 
 ### How often do I post
 
@@ -33,7 +33,7 @@ Ok, recruiters happy. Let me introduce myself:
 
 I was never the type of guy you might expect in IT.
 
-Ok, I've always liked computers, and I did play videogames growing up (long-live [HL](https://en.wikipedia.org/wiki/Half-Life), [QII](https://en.wikipedia.org/wiki/Quake_II), [JK:JO](https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight_II:_Jedi_Outcast), and [JK:JA](https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Jedi_Academy)), but that's all there's to it.
+Sure, I've always liked computers, and I did play videogames growing up (long-live [HL](https://en.wikipedia.org/wiki/Half-Life), [QII](https://en.wikipedia.org/wiki/Quake_II), [JK:JO](https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight_II:_Jedi_Outcast), and [JK:JA](https://en.wikipedia.org/wiki/Star_Wars_Jedi_Knight:_Jedi_Academy)), but that's all there's to it.
 
 No programming at 8, no robotics... nothing out of the ordinary (I'd say).
 
@@ -49,11 +49,11 @@ My purpose was to ensure the accuracy of what was being taught all over the coun
 
 This was the last nail in the coffin. I totally disengaged from college and quit my role.
 
-During the time, though, I had started to coach people I met traveling as part of my role. I associated with a pharmacist, a certified trainer (which I wasn't), a psychologist and an aspiring architect with nice graphical design skills (which happened to be my gf back then).
+During the time, though, I had started to coach people I met traveling as head of the commitee. I associated with a pharmacist, a certified trainer (which I wasn't), a psychologist and an aspiring architect with nice graphical design skills (which happened to be my gf back then).
 
 I also started writing scientific dissemination work for Spain's biggest health blog at the moment.
 
-So in order to grow our online business, I figured out the best way forward was to have a strong online presence, so I took on the website SEO and did what I was already doing as an external collaborator for the blog, write scientific dissemination, but keeping an eye on inbound marketing strategies, lead generation, RevOps and SEO specifically.
+So in order to grow our online business, I figured out the best way forward was to have a strong online presence, hence I took on the website SEO and did what I was already doing as an external collaborator for the blog, write scientific dissemination, but keeping an eye on inbound marketing strategies, lead generation, RevOps and SEO specifically.
 
 Again, didn't work out.
 
@@ -63,7 +63,7 @@ I was too inexperienced in running a business and everything collapsed once we g
 
 I wasn't going back to college (even if I kept doing my exams and paying my fees, purely out of fear).
 
-As I knew SEO and marketing, I tried a myriad of things (freelance work for private clinics, dropshipping health related products, both using pure inbound and paid ads). None of them were satisfying nor lucrative. I even studied finance and administration (bc it was a safe bet, or so I thought).
+As I knew SEO, marketing, and physical sciences I tried a myriad of things (freelance work for private clinics, dropshipping health related products, both using pure inbound and paid ads, private in-person coaching sessions...). None of them were satisfying nor lucrative. I even studied finance and administration (bc it was a safe bet, or so I thought).
 
 My gf broke up with me (after around 8 years of relationship).
 
@@ -71,7 +71,7 @@ I was living day-to-day, I remember going to buy groceries and returning some of
 
 Wasn't the best time I've had. But I stumbled upon some life lessons I really (and unknowingly) needed.
 
-I also met my wife, who's been one of the strongest drivers (if not the strongest) of pushing forward since then.
+I also met my wife, who's been one of the strongest drivers (if not the strongest) to push forward since then.
 
 ### Going forward
 
