@@ -15,7 +15,7 @@ Sometimes (just once in a while), this method produces some original thoughts th
 
 ### How often do I post
 
-As of 2026, I'm full-time employed, studying [Rust](https://rust-book.cs.brown.edu/), trying to remain fit and being a parent to a 1-year-old. So, if you are really that interested in the content, first, thank you, and second and foremost, you can subscribe to the [RSS feed](https://oscargilbalaguer.com/blog/index.xml).
+As of 2026, I'm full-time employed, studying [Rust](https://rust-book.cs.brown.edu/), trying to remain fit and being a parent to a 1-year-old. So, if you are really that interested in the content, first and foremost, thanks! And second, you can subscribe to the [RSS feed](https://oscargilbalaguer.com/blog/index.xml) so you don't miss on anything, whenever there's any new post.
 
 ### What do I post about
 
