@@ -25,7 +25,7 @@ I created [tags](/tags) to make it easier in case you want to find info on parti
 
 ## About me
 
-I'm Oscar, nice to (sort of) meet you! If you're reading this, chances are high that you came here looking for [my resume](https://docs.google.com/document/d/e/2PACX-1vT4UVc1-8N7AL19uJaCgm6eM3gHZsJQa_WmI7zkZvrW7mcG7LF3SilDH2qUi1TnVdk_eM4JvaCVCuPj/pub).
+I'm Oscar, nice to (sort of) meet you. If you're reading this, chances are high that you came here looking for [my resume](https://docs.google.com/document/d/e/2PACX-1vT4UVc1-8N7AL19uJaCgm6eM3gHZsJQa_WmI7zkZvrW7mcG7LF3SilDH2qUi1TnVdk_eM4JvaCVCuPj/pub).
 
 Ok, recruiters happy. Let me introduce myself:
 

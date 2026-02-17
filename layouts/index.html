@@ -1,8 +1,10 @@
 {{ define "main" }}
 {{ .Content }}
 
+{{ $blogPosts := where .Site.RegularPages "Section" "blog" }}
+{{ if $blogPosts }}
 <h2>Latest thoughts</h2>
-{{ range first 3 (where .Site.RegularPages "Section" "blog").ByDate.Reverse }}
+{{ range first 3 $blogPosts.ByDate.Reverse }}
 <article>
   <h3 class="listing-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
   <p class="post-meta">
@@ -18,5 +20,6 @@
   <p class="listing-continue"><a href="{{ .Permalink }}">Continue reading →</a></p>
   {{ end }}
 </article>
+{{ end }}
 {{ end }}
 {{ end }}
