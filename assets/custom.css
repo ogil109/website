@@ -1,9 +1,20 @@
 /* ========================================
+   Color Palette (CSS Variables)
+   ======================================== */
+
+:root {
+  --color-bg: #0d0907;          /* Warm dark background */
+  --color-primary: #6eadae;      /* Pale blue - links, borders (7:1 contrast) */
+  --color-accent: #ff4300;       /* Bold orange - hover, highlights */
+}
+
+
+/* ========================================
    Background
    ======================================== */
 
 body {
-  background-color: #0d0907 !important;
+  background-color: var(--color-bg) !important;
 }
 
 
@@ -12,11 +23,11 @@ body {
    ======================================== */
 
 a {
-  color: #548687;
+  color: var(--color-primary);
 }
 
 a:hover {
-  color: #ff4300;
+  color: var(--color-accent);
 }
 
 
@@ -52,4 +63,11 @@ a:hover {
 /* Post title (h1) */
 .post-title {
   margin-bottom: 0.1rem;
+}
+
+/* Table of Contents */
+.toc {
+  border-left: 3px solid var(--color-primary);
+  padding-left: 1rem;
+  margin-bottom: 2rem;
 }
