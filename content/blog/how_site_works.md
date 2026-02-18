@@ -2,8 +2,8 @@
 title = 'The why behind this blog'
 draft = false
 date = '2025-02-18T08:37:38+01:00'
-publishDate = "2025-02-18T10:55:38+01:00"
-lastmod = "2025-02-18T10:55:38+01:00"
+publishDate = "2025-02-18T11:10:38+01:00"
+lastmod = "2025-02-18T11:10:38+01:00"
 showToc = true
 readingTime = true
 categories = []
