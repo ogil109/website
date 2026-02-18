@@ -2,4 +2,4 @@
 
 Here you'll find a collection of some curated notes on being a better engineer, father, and person. Expect no order other than chronology.
 
-You can check some content specific [tags](/tags), if that helps.
+If curious about the blog itself, check [why I started it](/blog/how_site_works).

@@ -11,9 +11,14 @@
         "weight": 2
       },
       {
+        "name": "Topics",
+        "url": "/tags",
+        "weight": 3
+      },
+      {
         "name": "About me",
         "url": "/about_me",
-        "weight": 3
+        "weight": 4
       }
     ]
   }
