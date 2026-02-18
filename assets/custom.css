@@ -45,6 +45,20 @@ a:hover {
    Homepage/Listing Styles
    ======================================== */
 
+/* Blog post listings */
+ul.blog-posts li {
+  display: block !important;
+  margin-bottom: 1.5rem;
+}
+
+ul.blog-posts li span {
+  flex: none !important;
+}
+
+ul.blog-posts li .post-meta {
+  margin-top: 0.25rem;
+}
+
 /* Post titles in listings (h3) */
 .listing-title {
   margin-bottom: 0.1rem;
