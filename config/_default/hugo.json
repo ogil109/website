@@ -6,6 +6,7 @@
     "theme": "hugo-bearcub",
     "enableRobotsTXT": true,
     "timeZone": "UTC",
-    "copyright": "Oscar Gil (CC BY-SA 4.0)"
+    "copyright": "Oscar Gil (CC BY-SA 4.0)",
+    "summaryLength": 50
   }
   

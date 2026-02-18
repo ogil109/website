@@ -8,5 +8,4 @@ showToc = true
 readingTime = true
 categories = []
 tags = []
-excerpt = ""
 +++

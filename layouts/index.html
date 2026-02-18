@@ -15,10 +15,8 @@
       {{ end }}
     </small>
   </p>
-  {{ if .Params.excerpt }}
-  <p>{{ .Params.excerpt }}</p>
+  <p>{{ .Summary | plainify }}...</p>
   <p class="listing-continue"><a href="{{ .Permalink }}">Continue reading →</a></p>
-  {{ end }}
 </article>
 {{ end }}
 {{ end }}

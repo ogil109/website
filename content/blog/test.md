@@ -8,7 +8,6 @@ showToc = true
 readingTime = true
 categories = ["test"]
 tags = ["test", "test2"]
-excerpt = "Testing the new Bear Cub theme options including TOC, reading time, categories, and tags."
 +++
 ## Bear Cub testing
 

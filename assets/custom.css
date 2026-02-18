@@ -81,7 +81,12 @@ ul.blog-posts li .post-meta {
 
 /* Table of Contents */
 .toc {
-  border-left: 3px solid var(--color-primary);
+  border-left: 2px solid var(--color-primary);
   padding-left: 1rem;
   margin-bottom: 2rem;
+}
+
+/* Tags at bottom of post */
+.post-tags {
+  margin-top: 3rem;
 }
