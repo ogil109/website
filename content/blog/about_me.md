@@ -1,9 +1,16 @@
 +++
+title = 'About me'
+draft = false
+date = '2025-02-18T08:37:38+01:00'
+publishDate = "2025-02-18T11:10:38+01:00"
+lastmod = "2025-02-18T11:10:38+01:00"
+showToc = true
+readingTime = true
 hideMenu = true
 hideReply = true
+categories = []
+tags = []
 +++
-
-# About me
 
 I'm Oscar, nice to (sort of) meet you. If you're reading this, chances are that you came here looking for [my resume](https://docs.google.com/document/d/e/2PACX-1vT4UVc1-8N7AL19uJaCgm6eM3gHZsJQa_WmI7zkZvrW7mcG7LF3SilDH2qUi1TnVdk_eM4JvaCVCuPj/pub).
 
