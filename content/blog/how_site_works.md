@@ -1,14 +1,13 @@
 +++
 title = 'The why behind this blog'
 draft = false
-date = '2025-02-18T08:37:38+01:00'
-publishDate = "2025-02-18T11:10:38+01:00"
-lastmod = "2025-02-18T11:10:38+01:00"
+date = '2026-02-18T08:37:38+01:00'
+publishDate = "2026-02-18T11:10:38+01:00"
+lastmod = "2026-02-18T11:10:38+01:00"
 showToc = true
 readingTime = true
 categories = []
 tags = ["blogging"]
-excerpt = "I started this blog basically to force myself to write anything original that I come up with, since I think this is becoming more and more valuable as gen AI takes over the internet. Want to know more about it?"
 +++
 
 I started this blog to have a drive to share some of the things I learn and I feel are worth sharing. This is not by any means a place intended to educate people on best practices or how to do things (you already have a gazillion resources available if that's what you're looking for).

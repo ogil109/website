@@ -1,9 +1,9 @@
 +++
 title = 'About me'
 draft = false
-date = '2025-02-19T08:37:38+01:00'
-publishDate = "2025-02-19T11:10:38+01:00"
-lastmod = "2025-02-19T11:10:38+01:00"
+date = '2026-02-19T08:37:38+01:00'
+publishDate = "2026-02-19T11:10:38+01:00"
+lastmod = "2026-02-19T11:10:38+01:00"
 showToc = true
 readingTime = true
 categories = []
