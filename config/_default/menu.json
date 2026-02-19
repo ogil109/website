@@ -9,11 +9,6 @@
         "name": "Blog",
         "url": "/blog",
         "weight": 2
-      },
-      {
-        "name": "About me",
-        "url": "/blog/about_me",
-        "weight": 3
       }
     ]
   }
