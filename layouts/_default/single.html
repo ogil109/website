@@ -18,7 +18,7 @@
 <content>
   {{ .Content }}
 </content>
-<p class="post-tags">
+<p class="tags">
   {{ range (.GetTerms "tags") }}
     <a class="blog-tags" href="{{ .RelPermalink }}">#{{ lower .LinkTitle }}</a>
   {{ end }}

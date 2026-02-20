@@ -40,6 +40,11 @@ a:hover {
   margin-top: 0;
 }
 
+/* Tags (used in both listings and single posts) */
+.tags {
+  margin-top: 3rem;
+}
+
 
 /* ========================================
    Homepage/Listing Styles
@@ -84,9 +89,4 @@ ul.blog-posts li .post-meta {
   border-left: 2px solid var(--color-primary);
   padding-left: 1rem;
   margin-bottom: 2rem;
-}
-
-/* Tags at bottom of post */
-.post-tags {
-  margin-top: 3rem;
 }
